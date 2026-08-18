@@ -1,6 +1,6 @@
 # 📈 Automated Indian Stocks Beta Tracker & Live Analytics Dashboard
 
-[![Daily Beta Workflow](https://github.com/YOUR_GITHUB_USERNAME/beta-model/actions/workflows/daily_beta.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/beta-model/actions/workflows/daily_beta.yml)
+[![Daily Beta Workflow](https://github.com/Gokul-12007/beta-model/actions/workflows/daily_beta.yml/badge.svg)](https://github.com/Gokul-12007/beta-model/actions/workflows/daily_beta.yml)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
@@ -54,7 +54,7 @@ $$\text{Linear Model: } R_{i,t} = \alpha + \beta R_{m,t} + \epsilon_t$$
 
 ### 1. Clone & Setup Virtual Environment
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/beta-model.git
+git clone https://github.com/Gokul-12007/beta-model.git
 cd beta-model
 
 # Create virtual environment
